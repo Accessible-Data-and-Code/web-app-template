@@ -1,0 +1,6 @@
+ipywidgets
+os
+io
+numpy
+opencv_python (cv2)
+holoviews
