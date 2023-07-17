@@ -9,7 +9,7 @@ dependencies:
   - jupyterlab-git # https://github.com/jupyterlab/jupyterlab-git
   - jupyterlab-lsp # https://github.com/jupyter-lsp/jupyterlab-lsp
   - jupyterlab-spellchecker # https://github.com/jupyterlab-contrib/spellchecker
-  - holoviews
+  - holoviews = 1.15.4
   - bokeh
   - ipywidgets
   - numpy
